@@ -1,0 +1,15 @@
+{
+  "name": "飞云教程",
+  "version": "1.0.0",
+  "description": "飞云教程",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "飞云",
+    "ssr"
+  ],
+  "author": "feiyun",
+  "license": "ISC"
+}
